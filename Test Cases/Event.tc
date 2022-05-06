@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a717e00a-db8c-4ce6-b872-fe4f1944e7d3</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Katalon proojets\\\\InnovationMindTest1\\\\Excel\\\\3.jpg'</defaultValue>
+      <description></description>
+      <id>465cfbac-ba3a-4cef-ab6f-0d37299c6f4d</id>
+      <masked>false</masked>
+      <name>zz</name>
+   </variable>
+</TestCaseEntity>
